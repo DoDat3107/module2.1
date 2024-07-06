@@ -292,6 +292,9 @@ class BBBai9 {
                 System.out.println("Đây không phải 3 cạnh của 1 tam giác");
             }
         }
+        else {
+            System.out.println("Đây không phải 3 cạnh của 1 tam giác");
+        }
     }
 }
 
